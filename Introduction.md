@@ -3,5 +3,5 @@
 
 The **FourSqaure API** comes handy here to access the venues in the neighbourhoods. **KMeans Clustering** is applied here to cluster venues given in the dataset. **Geopy** and **Folium** visualisation libraries are utilized here to visualise maps and come to conclusions.
 
-##Target Audience
+## Target Audience
 The target audience are the business people and young entrepreneurs who want to start their businesses in and around Chennai. The results obtained here would be useful for their endeavours. Moreover, local citizens and foodaholics can make use of these visualisations to try out new restaurants!
