@@ -1,4 +1,3 @@
-# testrepo
-## This is a sample file 
+## Capstone Project - IBM Data Science
 
-It is markdown file in the current respository. This repository will be used for the Capstone project of "IBM Data Science".
+This repository will be used for the Capstone project of "IBM Data Science".
